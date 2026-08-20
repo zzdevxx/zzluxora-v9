@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zzluxora"
+version = "9.0.0"
+description = "Audio-Reactive Lighting Design — rule-based audio feature mapping to RGBW via Art-Net DMX512"
+requires-python = ">=3.10"
+authors = [{ name = "Andreas Restuawanta Christwara", email = "andreasr35tu@gmail.com" }]
+license = { text = "Internal use only — UNNES" }
+dependencies = [
+    "PySide6>=6.11",
+    "librosa>=0.11",
+    "numpy>=2.4",
+    "scipy>=1.17",
+    "soundfile>=0.14",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-cov>=5"]
+build = ["pyinstaller>=6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v"
+markers = [
+    "qt: UI tests requiring QApplication",
+]
+
+[tool.coverage.run]
+source = ["zzluxora"]
+omit = ["*/tests/*", "*/ui/*"]

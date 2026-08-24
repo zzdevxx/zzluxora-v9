@@ -8,7 +8,7 @@ version = "9.0.0"
 description = "Audio-Reactive Lighting Design — rule-based audio feature mapping to RGBW via Art-Net DMX512"
 requires-python = ">=3.10"
 authors = [{ name = "Andreas Restuawanta Christwara", email = "andreasr35tu@gmail.com" }]
-license = { text = "Internal use only — UNNES" }
+license = { text = "Apache-2.0" }
 dependencies = [
     "PySide6>=6.11",
     "librosa>=0.11",

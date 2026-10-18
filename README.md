@@ -179,7 +179,7 @@ zzluxora_v9/
 ### Langkah Menjalankan:
 1. **Clone Repositori:**
    ```powershell
-   git clone https://github.com/zzdree/zzluxora-v9.git
+   git clone https://gitlab.com/zzdree/zzluxora_v9.git
    cd zzluxora-v9
    ```
 

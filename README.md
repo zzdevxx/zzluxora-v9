@@ -132,7 +132,7 @@ zzluxora_v9/
 ├── requirements.txt         <- Dependensi library Python (PySide6, Librosa, NumPy, SciPy)
 ├── build.py                 <- Skrip PyInstaller Onedir standalone compiler
 ├── installer.iss            <- Skrip Inno Setup Compiler Windows installer
-├── LICENSE                  <- Lisensi resmi open-source MIT (@zzdree)
+├── LICENSE                  <- Lisensi resmi open-source MIT (@zzdevxx)
 ├── README.md                <- Dokumentasi resmi ekosistem proyek
 │
 ├── 📂 src/zzluxora/         <- Root package aplikasi:
@@ -179,7 +179,7 @@ zzluxora_v9/
 ### Langkah Menjalankan:
 1. **Clone Repositori:**
    ```powershell
-   git clone https://gitlab.com/zzdree/zzluxora_v9.git
+   git clone https://gitlab.com/zzdevxx/zzluxora_v9.git
    cd zzluxora-v9
    ```
 
@@ -246,4 +246,4 @@ Buka berkas `installer.iss` di **Inno Setup Compiler** dan klik **Compile (Ctrl 
 ## 📜 9. Lisensi & Hak Cipta
 
 Proyek ini dilisensikan di bawah **MIT License**.  
-Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdevxx))** — Universitas Negeri Semarang.
+Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdevxx](https://github.com/zzdevxx))** — Universitas Negeri Semarang.

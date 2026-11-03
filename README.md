@@ -1,4 +1,4 @@
-# 👑 ZZLUXORA v9.0.0 (Flagship Masterpiece Edition)
+﻿# 👑 ZZLUXORA v9.0.0 (Flagship Masterpiece Edition)
 
 > **Autonomous Audio-Reactive Stage Lighting Design System**  
 > *Rule-Based Computational Audio Feature Extraction (Librosa), Affective Mood Modeling (Valence-Arousal Russell Circumplex), Physical 4-Channel HSV-RGBW Color Space Mapping, and High-Speed Art-Net DMX512 Protocol over UDP (Port 6454).*
@@ -246,4 +246,4 @@ Buka berkas `installer.iss` di **Inno Setup Compiler** dan klik **Compile (Ctrl 
 ## 📜 9. Lisensi & Hak Cipta
 
 Proyek ini dilisensikan di bawah **MIT License**.  
-Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdree))** — Universitas Negeri Semarang.
+Hak Cipta (c) 2026 **Andreas Restuawanta Christwara ([@zzdree](https://github.com/zzdevxx))** — Universitas Negeri Semarang.

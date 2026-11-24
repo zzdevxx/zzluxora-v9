@@ -1,4 +1,12 @@
-﻿# 👑 ZZLUXORA v9.0.0 (Flagship Masterpiece Edition)
+﻿> ## STATUS ARSIP: TIDAK AKTIF
+>
+> Repository ini berstatus arsip dan tidak aktif dikembangkan. Versi ini sudah digantikan oleh zzluxora-v10, yang menjadi lanjutan resmi lini produk ZZLUXORA.
+>
+> Isi repository ini tidak diubah dan tidak ada rilis atau pemeliharaan lanjutan. Repository tetap utuh sebagai arsip kode.
+
+---
+
+# 👑 ZZLUXORA v9.0.0 (Flagship Masterpiece Edition)
 
 > **Autonomous Audio-Reactive Stage Lighting Design System**  
 > *Rule-Based Computational Audio Feature Extraction (Librosa), Affective Mood Modeling (Valence-Arousal Russell Circumplex), Physical 4-Channel HSV-RGBW Color Space Mapping, and High-Speed Art-Net DMX512 Protocol over UDP (Port 6454).*
